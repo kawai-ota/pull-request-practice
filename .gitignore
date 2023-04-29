@@ -1,3 +1,11 @@
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 addmywife.txt
+=======
+test.txt
+Takahashi.txt
+bluetortoise.txt
+.txt
+*.sw?
+>>>>>>> parent of b7b8c14 (Gitとに管理されたくないファイルをigonoreに記載しました)
